@@ -245,6 +245,49 @@ This project can be extended into several advanced AI research areas:
 
 ---
 
+---
+
+# 📄 Research Papers & Literature
+
+This project is inspired by ongoing advancements in Retrieval-Augmented Generation (RAG), contextual reasoning systems, and adaptive AI memory architectures.
+
+## Core Research Papers
+
+### 1. Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Tasks
+Focuses on extending RAG systems across multiple languages for better multilingual contextual reasoning and retrieval. :contentReference[oaicite:0]{index=0}
+
+🔗 Paper: [Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Tasks](https://arxiv.org/abs/2504.03616?utm_source=chatgpt.com)
+
+---
+
+### 2. RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation
+Introduces Retrieval-And-Structuring (RAS), a framework that dynamically builds query-specific knowledge graphs through iterative retrieval and structured reasoning. :contentReference[oaicite:2]{index=2}
+
+🔗 Paper: [RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation](https://arxiv.org/abs/2502.10996?utm_source=chatgpt.com)
+
+---
+
+### 3. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+The foundational RAG paper introducing retrieval-augmented generation using parametric and non-parametric memory systems for factual and grounded AI responses. :contentReference[oaicite:4]{index=4}
+
+🔗 Paper: [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401?utm_source=chatgpt.com)
+
+---
+
+# 🧠 Research Areas Explored
+
+- Retrieval-Augmented Generation (RAG)
+- Context-Aware AI Systems
+- Persistent AI Memory
+- Knowledge Graph Reasoning
+- Multilingual AI Retrieval
+- Adaptive Prompt Engineering
+- Hallucination Reduction in LLMs
+- Semantic Search Systems
+- Vector Database Architectures
+
+---
+
 # 📚 Research References
 
 ### Papers & Publications
